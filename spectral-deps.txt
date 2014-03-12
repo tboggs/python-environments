@@ -1,0 +1,7 @@
+numpy>=1.7
+Pillow
+PyOpenGL
+PyOpenGL-accelerate
+matplotlib
+ipython
+
