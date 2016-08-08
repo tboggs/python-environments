@@ -1,0 +1,4 @@
+PyWavelets
+h5py
+lda
+scikit-learn
