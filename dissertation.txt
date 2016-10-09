@@ -2,3 +2,6 @@ PyWavelets
 h5py
 lda
 scikit-learn
+python-hdf4
+seaborn
+

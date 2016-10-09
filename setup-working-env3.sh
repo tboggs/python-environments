@@ -36,4 +36,5 @@ pip install -r dissertation.txt
 pip install -e ${SRC_DIR}/spectral
 
 python3 -c "import numpy, matplotlib, scipy, gdal, h5py, sklearn, pywt, sklearn, spectral"
+python3 -c "import pyhdf"
 python3 -c "import PyQt5"
