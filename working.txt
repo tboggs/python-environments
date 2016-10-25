@@ -1,2 +1,5 @@
 pyzmq
 jupyter
+# For emacs jedi
+epc
+jedi
